@@ -7,4 +7,4 @@ Resumo/Revisão das vídeo aulas da UXTI sobre JAVA.
 Video aulas não estão no canal do autor
 [Java&Cia Youtube](https://www.youtube.com/user/java8cia)
 
-[Parte1](https://#)
+[Vídeo 01](https://github.com/josemalcher/EstudosUXTIJava/blob/master/chapters/01Video.md) - Introdução
